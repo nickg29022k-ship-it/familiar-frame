@@ -1,0 +1,25 @@
+.venv/
+.venv_hybrid/
+.torch_cache/
+.tools/
+__pycache__/
+.pytest_cache/
+.env
+*.db
+.wheels/
+_local_pkgs/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Local state and credentials
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+*.log
